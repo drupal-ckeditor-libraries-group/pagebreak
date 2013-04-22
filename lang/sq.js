@@ -2,7 +2,7 @@
 Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'pagebreak', 'fr-ca', {
-	alt: 'Saut de page',
-	toolbar: 'Insérer un saut de page à l\'impression'
+CKEDITOR.plugins.setLang( 'pagebreak', 'sq', {
+	alt: 'Thyerja e Faqes',
+	toolbar: 'Vendos Thyerje Faqeje për Shtyp'
 });
